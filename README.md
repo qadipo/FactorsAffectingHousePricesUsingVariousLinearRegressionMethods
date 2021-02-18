@@ -11,7 +11,7 @@ In building the Model, various regression techniques shall be considered with th
     5. Elastic Net Regression
 
 ## Data Description
-The dataset to use for this project can be found by following this link: [http://bit.ly/IndependentProjectWeek7Dataset (Links to an external site.)]. 
+The dataset used in this project has been included in this respository.
 
 The data has the following feaatures for consideration:
 
