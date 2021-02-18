@@ -1,4 +1,4 @@
-# Factors Affecting House Prices Using Various Linear Regression Methods
+# Modelling House Prices Using Various Linear Regression Methods
 
 This problem shall be approached as a data scientist, working for Hass Consulting Company which is a real estate leader with over 25 years of experience. The task involves studying factors that affect housing prices using the information on real estate properties that has been collected over the past few months. Thereafter we will create a model that would allow the company to accurately predict the sale of prices upon being provided with the predictor variables.
 
